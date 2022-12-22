@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+nav h1{
+    color: red;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+}
+
+section h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: rgb(168, 12, 168);
+}
+
+section strong{
+    color: orange;
+}
+
+section ul, ol{
+    list-style-position: inside;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
