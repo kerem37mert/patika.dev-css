@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    
+}
+
+nav ul{
+    display: inline-block;
+}
+
+nav .second{
+    float: right;
+    padding-right: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 14px;
+}
+
+nav ul a{
+    color: rgb(141, 141, 141);
+    text-decoration: none;
+}
+
+nav ul a:hover{
+    text-decoration: underline;
+    color: #8d8d8d;
+}
+
+nav .btn{
+    background-color: #4584ef;
+    display: inline-block;
+    padding: 7.5px 10px;
+    color: #fff;
+}
+
+nav .btn:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+.second img{
+    cursor: pointer;
+}
+
+.page{
+}
